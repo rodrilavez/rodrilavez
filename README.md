@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodrilavez
+- 👋 Hi, I’m rod
 - 👀 I’m interested in ... music, coding and bussines.
 - 🌱 I’m currently learning ... html, css, java and pyhton.
 - 💞️ I’m looking to collaborate on ... new projects to gain experience.
